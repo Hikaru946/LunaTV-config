@@ -282,11 +282,11 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-10-25 03:20 CST）
+## API 状态（最近更新：2026-10-26 03:29 CST）
 
 - 总 API 数量：79
-- 成功 API 数量：62
-- 失败 API 数量：17
+- 成功 API 数量：63
+- 失败 API 数量：16
 - 平均可用率：78.1%
 - 完美可用率（100%）：9 个
 - 高可用率（80%-99%）：52 个
@@ -340,7 +340,7 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
 | ✅ | 🔞番号资源 | [🔗](http://fhapi9.com) | [fhapi9.com](http://fhapi9.com/api.php/provide/vod "点击访问完整 API") | 96 | 4 | 96.0% | 0 | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞精品资源 | [🔗](https://www.jingpinx.com) | [jingpinx.com](https://www.jingpinx.com/api.php/provide/vod "点击访问完整 API") | 96 | 4 | 96.0% | 0 | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞麻豆视频 | [🔗](https://91md.me) | [91md.me](https://91md.me/api.php/provide/vod "点击访问完整 API") | 96 | 4 | 96.0% | 0 | ✅✅✅✅✅✅✅ |
-| ❌ | 🎬-爱奇艺- | [🔗](https://iqiyizyapi.com) | [iqiyizyapi.com](https://iqiyizyapi.com/api.php/provide/vod "点击访问完整 API") | 95 | 5 | 95.0% | 1 | ✅✅✅❌✅✅❌ |
+| ✅ | 🎬-爱奇艺- | [🔗](https://iqiyizyapi.com) | [iqiyizyapi.com](https://iqiyizyapi.com/api.php/provide/vod "点击访问完整 API") | 95 | 5 | 95.0% | 0 | ✅✅❌✅✅❌✅ |
 | ✅ | 🎬魔都动漫 | [🔗](https://caiji.moduapi.cc) | [caiji.moduapi.cc](https://caiji.moduapi.cc/api.php/provide/vod "点击访问完整 API") | 95 | 5 | 95.0% | 0 | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞jkun资源 | [🔗](https://jkunzyapi.com) | [jkunzyapi.com](https://jkunzyapi.com/api.php/provide/vod "点击访问完整 API") | 95 | 5 | 95.0% | 0 | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞奶香资源 | [🔗](https://Naixxzy.com) | [naixxzy.com](https://Naixxzy.com/api.php/provide/vod "点击访问完整 API") | 95 | 5 | 95.0% | 0 | ✅✅✅✅✅✅✅ |
@@ -356,18 +356,18 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
 | ✅ | 🔞白嫖资源 | [🔗](https://www.kxgav.com) | [kxgav.com](https://www.kxgav.com/api/json.php "点击访问完整 API") | 92 | 8 | 92.0% | 0 | ✅✅✅✅✅✅✅ |
 | ✅ | 🎬旺旺资源 | [🔗](https://api.wwzy.tv) | [api.wwzy.tv](https://api.wwzy.tv/api.php/provide/vod "点击访问完整 API") | 91 | 9 | 91.0% | 0 | ✅✅✅✅✅✅✅ |
 | ✅ | 🔞色猫资源 | [🔗](https://semaozy1.com) | [caiji.semaozy.net](https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod "点击访问完整 API") | 91 | 9 | 91.0% | 0 | ✅✅✅✅✅✅✅ |
-| ✅ | 🔞大地资源 | [🔗](https://dadizy11.com) | [dadiapi.com](https://dadiapi.com/feifei "点击访问完整 API") | 90 | 10 | 90.0% | 0 | ✅✅✅❌❌✅✅ |
+| ✅ | 🔞大地资源 | [🔗](https://dadizy11.com) | [dadiapi.com](https://dadiapi.com/feifei "点击访问完整 API") | 90 | 10 | 90.0% | 0 | ✅✅❌❌✅✅✅ |
 | ✅ | 🔞-奥斯卡- | [🔗](https://aosikazy.com) | [aosikazy.com](https://aosikazy.com/api.php/provide/vod "点击访问完整 API") | 89 | 11 | 89.0% | 0 | ✅✅✅✅✅✅✅ |
-| ❌ | 🔞黄色仓库 | [🔗](https://hsckzy.xyz) | [hsckzy.xyz](https://hsckzy.xyz/api.php/provide/vod "点击访问完整 API") | 84 | 16 | 84.0% | 1 | ✅✅✅❌❌✅❌ |
-| ✅ | 🎬金鹰点播 | [🔗](https://jinyingzy.com) | [jinyingzy.com](https://jinyingzy.com/api.php/provide/vod "点击访问完整 API") | 73 | 27 | 73.0% | 0 | ✅✅✅✅✅✅✅ |
-| ✅ | 🔞鲨鱼资源 | [🔗](https://shayuapi.com) | [shayuapi.com](https://shayuapi.com/api.php/provide/vod "点击访问完整 API") | 58 | 42 | 58.0% | 0 | ❌❌❌✅✅✅✅ |
-| 🚨 | 🔞细胞资源 | [🔗](https://www.xxibaozyw.com) | [xxibaozyw.com](https://www.xxibaozyw.com/api.php/provide/vod "点击访问完整 API") | 51 | 49 | 51.0% | 34 | ❌❌❌❌❌❌❌ |
-| 🚨 | 🔞香蕉资源 | [🔗](https://www.xiangjiaozyw.com) | [xiangjiaozyw.com](https://www.xiangjiaozyw.com/api.php/provide/vod "点击访问完整 API") | 51 | 49 | 51.0% | 34 | ❌❌❌❌❌❌❌ |
-| 🚨 | 🔞--AIvin- | [🔗](http://lbapiby.com) | [lbapiby.com](http://lbapiby.com/api.php/provide/vod "点击访问完整 API") | 37 | 63 | 37.0% | 59 | ❌❌❌❌❌❌❌ |
-| 🚨 | 🔞-幸资源- | [🔗](https://xzytv.com) | [xzybb2.com](https://xzybb2.com/api.php/provide/vod "点击访问完整 API") | 37 | 63 | 37.0% | 21 | ❌❌❌❌❌❌❌ |
-| 🚨 | 🔞百万资源 | [🔗](https://api.bwzym3u8.com) | [api.bwzyz.com](https://api.bwzyz.com/api.php/provide/vod "点击访问完整 API") | 5 | 95 | 5.0% | 95 | ❌❌❌❌❌❌❌ |
-| 🚨 | 🎬飘零资源 | [🔗](https://p2100.net) | [p2100.net](https://p2100.net/api.php/provide/vod "点击访问完整 API") | 2 | 98 | 2.0% | 36 | ❌❌❌❌❌❌❌ |
-| ✅ | 🔞91-精品- | [🔗](https://91jpzyw.com) | [91jpzyw.com](https://91jpzyw.com/api.php/provide/vod "点击访问完整 API") | 2 | 98 | 2.0% | 0 | ❌❌❌❌❌✅✅ |
+| ❌ | 🔞黄色仓库 | [🔗](https://hsckzy.xyz) | [hsckzy.xyz](https://hsckzy.xyz/api.php/provide/vod "点击访问完整 API") | 83 | 17 | 83.0% | 2 | ✅✅❌❌✅❌❌ |
+| ✅ | 🎬金鹰点播 | [🔗](https://jinyingzy.com) | [jinyingzy.com](https://jinyingzy.com/api.php/provide/vod "点击访问完整 API") | 74 | 26 | 74.0% | 0 | ✅✅✅✅✅✅✅ |
+| ✅ | 🔞鲨鱼资源 | [🔗](https://shayuapi.com) | [shayuapi.com](https://shayuapi.com/api.php/provide/vod "点击访问完整 API") | 58 | 42 | 58.0% | 0 | ❌❌✅✅✅✅✅ |
+| 🚨 | 🔞细胞资源 | [🔗](https://www.xxibaozyw.com) | [xxibaozyw.com](https://www.xxibaozyw.com/api.php/provide/vod "点击访问完整 API") | 50 | 50 | 50.0% | 35 | ❌❌❌❌❌❌❌ |
+| 🚨 | 🔞香蕉资源 | [🔗](https://www.xiangjiaozyw.com) | [xiangjiaozyw.com](https://www.xiangjiaozyw.com/api.php/provide/vod "点击访问完整 API") | 50 | 50 | 50.0% | 35 | ❌❌❌❌❌❌❌ |
+| 🚨 | 🔞-幸资源- | [🔗](https://xzytv.com) | [xzybb2.com](https://xzybb2.com/api.php/provide/vod "点击访问完整 API") | 37 | 63 | 37.0% | 22 | ❌❌❌❌❌❌❌ |
+| 🚨 | 🔞--AIvin- | [🔗](http://lbapiby.com) | [lbapiby.com](http://lbapiby.com/api.php/provide/vod "点击访问完整 API") | 36 | 64 | 36.0% | 60 | ❌❌❌❌❌❌❌ |
+| 🚨 | 🔞百万资源 | [🔗](https://api.bwzym3u8.com) | [api.bwzyz.com](https://api.bwzyz.com/api.php/provide/vod "点击访问完整 API") | 4 | 96 | 4.0% | 96 | ❌❌❌❌❌❌❌ |
+| ✅ | 🔞91-精品- | [🔗](https://91jpzyw.com) | [91jpzyw.com](https://91jpzyw.com/api.php/provide/vod "点击访问完整 API") | 3 | 97 | 3.0% | 0 | ❌❌❌❌✅✅✅ |
+| 🚨 | 🎬飘零资源 | [🔗](https://p2100.net) | [p2100.net](https://p2100.net/api.php/provide/vod "点击访问完整 API") | 2 | 98 | 2.0% | 37 | ❌❌❌❌❌❌❌ |
 | 🚨 | 🎬如意资源 | [🔗](https://www.ryzyw.com) | [pz.168188.dpdns.org](https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod "点击访问完整 API") | 0 | 100 | 0.0% | 100 | ❌❌❌❌❌❌❌ |
 | 🚨 | 🎬山海资源 | [🔗](https://zy.sh0o.cn) | [zy.sh0o.cn](https://zy.sh0o.cn/api.php/provide/vod "点击访问完整 API") | 0 | 100 | 0.0% | 100 | ❌❌❌❌❌❌❌ |
 | 🚨 | 🎬百度云zy | [🔗](https://bdzy1.com) | [pz.168188.dpdns.org](https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod "点击访问完整 API") | 0 | 100 | 0.0% | 100 | ❌❌❌❌❌❌❌ |
